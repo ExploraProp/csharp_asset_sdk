@@ -1,0 +1,17 @@
+Warning: KiotaBuilder OpenAPI warning: #/ - A servers entry (v3) or host + basePath + schemes properties (v2) was not present in the OpenAPI description. The root URL will need to be set manually with the request adapter.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1api~1v1~1properties/get/parameters/7/schema - The format int32 is not supported by Kiota for the type Integer, String and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1api~1v1~1properties/get/parameters/8/schema - The format int32 is not supported by Kiota for the type Integer, String and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/PaginatedResultOfPropertyDto/properties/pageSize - The format int32 is not supported by Kiota for the type Integer, String and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/PaginatedResultOfPropertyDto/properties/totalCount - The format int32 is not supported by Kiota for the type Integer, String and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/PaginatedResultOfPropertyDto/properties/totalPages - The format int32 is not supported by Kiota for the type Integer, String and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/PaginatedResultOfPropertyDto/properties/currentPage - The format int32 is not supported by Kiota for the type Integer, String and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/PaginatedResultOfPropertyDto/properties/nextPage - The format int32 is not supported by Kiota for the type Integer, String and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/PaginatedResultOfPropertyDto/properties/previousPage - The format int32 is not supported by Kiota for the type Integer, String and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/ProblemDetails/properties/status - The format int32 is not supported by Kiota for the type Integer, String and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/PropertyAttributeValueDto/properties/numericValue - The format double is not supported by Kiota for the type Number, String and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/PropertyDto/properties/latitude - The format double is not supported by Kiota for the type Number, String and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/PropertyDto/properties/longitude - The format double is not supported by Kiota for the type Number, String and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/SetPropertyAttributeItemDto/properties/numericValue - The format double is not supported by Kiota for the type Number, String and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/SetPropertyLocationDto/properties/latitude - The format double is not supported by Kiota for the type Number, String and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/SetPropertyLocationDto/properties/longitude - The format double is not supported by Kiota for the type Number, String and the string type will be used.
+Warning: KiotaBuilder No server url found in the OpenAPI document. The base url will need to be set when using the client.
