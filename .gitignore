@@ -1,0 +1,16 @@
+# Build
+**/bin/
+**/obj/
+*.user
+*.suo
+.vs/
+
+# Spec scratch / local
+*.nupkg
+artifacts/
+git_commits.ps1
+**/.kiota.log
+
+# OS
+.DS_Store
+Thumbs.db
